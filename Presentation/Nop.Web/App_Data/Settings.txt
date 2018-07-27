@@ -1,2 +1,0 @@
-DataProvider: sqlserver
-DataConnectionString: Data Source=198.38.83.200;Initial Catalog=mariaO_commerce;Integrated Security=False;Persist Security Info=False;User ID=mariaO_ecommerce;Password=L@ngt@ng1234
